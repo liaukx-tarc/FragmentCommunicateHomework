@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Aug 03 12:05:44 SGT 2020
+#Mon Aug 03 12:43:56 SGT 2020
 0.baseType=DIRECTORY
 0.base=C\:\\Users\\user\\Desktop\\Moblie Pracrical\\FragmentCommunicate\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex

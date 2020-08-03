@@ -101,7 +101,15 @@ public class MainActivity extends AppCompatActivity implements SimpleFragment.On
     public void onRadioButtonChoice(int choice) {
         // Keep the radio button choice to pass it back to the fragment.
         mRadioButtonChoice = choice;
-        Toast.makeText(this, "Choice is " + Integer.toString(choice),
-                Toast.LENGTH_SHORT).show();
+        if(choice == 0)
+        {
+            Toast.makeText(this, "Yes", Toast.LENGTH_SHORT).show();
+        }
+
+        else if(choice == 1)
+        {
+            Toast.makeText(this, "No", Toast.LENGTH_SHORT).show();
+        }
+
     }
 }
