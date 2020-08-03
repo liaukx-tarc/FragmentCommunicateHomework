@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context="com.example.android.fragmentexample1.SimpleFragment"
+    tools:context="com.example.android.FragmentCommunicate.SimpleFragment"
     android:background = "@color/my_fragment_color"
     android:orientation = "horizontal">
 

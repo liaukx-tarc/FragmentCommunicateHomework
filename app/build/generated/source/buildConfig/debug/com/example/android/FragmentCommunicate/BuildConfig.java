@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.example.android.fragmentexample1;
+package com.example.android.FragmentCommunicate;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

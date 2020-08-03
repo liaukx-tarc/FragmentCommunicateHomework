@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Tue Jul 28 15:15:07 SGT 2020
+#Mon Aug 03 12:05:44 SGT 2020
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\user\\Desktop\\Moblie Pracrical\\FragmentExample2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=C\:\\Users\\user\\Desktop\\Moblie Pracrical\\FragmentCommunicate\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1
